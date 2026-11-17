@@ -63,7 +63,8 @@ def run_team(team: dict, allow_shrink: bool) -> str:
 
     games = parser(team["url"])
     out = FEEDS / team["output"]
-    old_text = out.read_text(encoding="utf-8") if out.exists() else ""
+    # read_bytes, not read_text: read_text turns \r\n into \n and every run looks "changed"
+    old_text = out.read_bytes().decode("utf-8") if out.exists() else ""
     check_safe(len(games), count_events(old_text), allow_shrink)
 
     text = render(team["label"], team["url"], games, int(team.get("duration_minutes", 90)))
