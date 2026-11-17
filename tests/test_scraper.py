@@ -39,8 +39,17 @@ def test_walks_every_page_and_asks_for_whole_school_year():
     g = amais.scrape(URL, f)
     assert len(g) == 4
     paged = [c for c in f.calls if c and c["sportsPageSize"] == amais.PAGE_SIZE]
-    assert [c["pageNumber"] for c in paged] == [1, 2]
+    assert [c["pageNumber"] for c in paged] == [1, 2, 3]  # 3 is the empty stop page
     assert all(c["periodId"] == 11 and c["featureId"] == "266" for c in paged)
+
+
+def test_ignores_missing_next_link():
+    """Real site, 2026-11-17: page 3 of 4 had no Next link. Must still reach page 4."""
+    class NoNext(FakeFetcher):
+        def get(self, url, params=None):
+            html = super().get(url, params)
+            return html.replace("site-page-item-next", "site-page-item")
+    assert len(amais.scrape(URL, NoNext())) == 4
 
 
 def test_cross_check_mismatch_fails():

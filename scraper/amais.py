@@ -14,7 +14,8 @@ How the site works, as observed on 2026-11-17:
     sportsPageSize  games per page
     pageNumber      1-based page
 * The pager shows a sliding window of page links ("1 2 Next"), NOT the total,
-  so we walk pages until one comes back empty or has no "Next" link.
+  and its "Next" link is unreliable (missing on page 3 of 4), so we walk
+  pages until one comes back empty.
 * The site prints "vs." for away games too; the card's CSS class
   (cms-bb-sport-events-home / -away) is the real home/away signal.
 """
@@ -128,11 +129,6 @@ def parse_cards(html: str) -> list[Game]:
     return games
 
 
-def has_next_page(html: str) -> bool:
-    soup = BeautifulSoup(html, "html.parser")
-    return soup.select_one(".site-page-item-next a") is not None
-
-
 def find_feature_id(html: str) -> str:
     ids = set(re.findall(r"searchSportEvents(\d+)\s*\(", html))
     if len(ids) != 1:
@@ -178,9 +174,11 @@ def scrape(url: str, fetcher: Optional[Fetcher] = None) -> list[Game]:
     for page in range(1, MAX_PAGES + 1):
         html = f.get(base, params(page, PAGE_SIZE))
         batch = parse_cards(html)
-        games.extend(batch)
-        if not batch or not has_next_page(html):
+        if not batch:
             break
+        games.extend(batch)
+        # Don't trust the pager's "Next" link: on 2026-11-17 page 3 of 4 had
+        # none, which silently dropped the last page. Walk until a page is empty.
     else:
         raise ScrapeError(f"Still finding pages after {MAX_PAGES}; refusing to trust the result.")
 
