@@ -17,3 +17,8 @@ teams:
     url: https://www.goramblers.org/basketball---girls---varsity
     output: maddie-basketball.ics
     platform: amais
+
+  - label: "Ryan — Sophomore Basketball"
+    url: https://www.goramblers.org/basketball---boys---sophomore
+    output: ryan-basketball.ics
+    platform: amais

@@ -11,6 +11,7 @@ was actually added, moved, or changed.
 | Team | Subscribe URL |
 |---|---|
 | Maddie (Louise) — Basketball | `https://raw.githubusercontent.com/burkefaddis-prog/basecamp-schedules/main/feeds/maddie-basketball.ics` |
+| Ryan — Sophomore Basketball | `https://raw.githubusercontent.com/burkefaddis-prog/basecamp-schedules/main/feeds/ryan-basketball.ics` |
 
 ## Adding a team
 
