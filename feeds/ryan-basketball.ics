@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//basecamp-schedules//ryan-sophomore-basketball//EN
+PRODID:-//basecamp-schedules//ryan-basketball-ics//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ryan — Sophomore Basketball
 BEGIN:VEVENT
-UID:1610b1b66743c7614046@basecamp-schedules
+UID:52b6a08d03d190178e8e@basecamp-schedules
 DTSTAMP:20261123T223000Z
 DTSTART:20261123T223000Z
 DTEND:20261124T000000Z
@@ -17,7 +17,7 @@ DESCRIPTION:LA Tournament\nHome\nMap: https://www.google.com/maps/search/?a
  rg/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:cdd68ce486d4db7243aa@basecamp-schedules
+UID:bca7b8714c24af7b1099@basecamp-schedules
 DTSTAMP:20261124T234500Z
 DTSTART:20261124T234500Z
 DTEND:20261125T011500Z
@@ -29,7 +29,7 @@ DESCRIPTION:LA Tournament\nHome\nMap: https://www.google.com/maps/search/?a
  rg/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:cabcfcc4f88541c4a370@basecamp-schedules
+UID:2567bd826aa3c540c0e0@basecamp-schedules
 DTSTAMP:20261125T161500Z
 DTSTART:20261125T161500Z
 DTEND:20261125T174500Z
@@ -41,7 +41,7 @@ DESCRIPTION:LA Tournament\nHome\nMap: https://www.google.com/maps/search/?a
  rg/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:65bec3b821e780484f84@basecamp-schedules
+UID:efeed25ca93c204be888@basecamp-schedules
 DTSTAMP:20261203T230000Z
 DTSTART:20261203T230000Z
 DTEND:20261204T003000Z
@@ -52,7 +52,7 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=7655
  l---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:9fef137d15aaf0a7eaba@basecamp-schedules
+UID:3e8ecd6522c6057539e2@basecamp-schedules
 DTSTAMP:20261205T190000Z
 DTSTART:20261205T190000Z
 DTEND:20261205T203000Z
@@ -63,7 +63,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:9f92de8822c24a8c5e08@basecamp-schedules
+UID:9efcb053dbf6db9891f5@basecamp-schedules
 DTSTAMP:20261208T230000Z
 DTSTART:20261208T230000Z
 DTEND:20261209T003000Z
@@ -74,7 +74,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:6e781b12541e6cef8cab@basecamp-schedules
+UID:6827fa3555f1d50ee601@basecamp-schedules
 DTSTAMP:20261211T233000Z
 DTSTART:20261211T233000Z
 DTEND:20261212T010000Z
@@ -85,7 +85,7 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=7740
  all---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:aa4bcd2746e80f4ab280@basecamp-schedules
+UID:a7dc57a7f823ff7da94f@basecamp-schedules
 DTSTAMP:20261218T223000Z
 DTSTART:20261218T223000Z
 DTEND:20261219T000000Z
@@ -96,7 +96,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:667bde3ba5c8c4630bdb@basecamp-schedules
+UID:b239782bd199eb18800e@basecamp-schedules
 DTSTAMP:20261219T143000Z
 DTSTART:20261219T143000Z
 DTEND:20261219T160000Z
@@ -108,7 +108,7 @@ DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
  ramblers.org/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:b3724e3cf5d1ce2b272e@basecamp-schedules
+UID:4e779ed3855d7d94481d@basecamp-schedules
 DTSTAMP:20261220T200000Z
 DTSTART:20261220T200000Z
 DTEND:20261220T213000Z
@@ -119,7 +119,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:40143ff154c341a5bc5f@basecamp-schedules
+UID:41a4fc78e100ce98d2fb@basecamp-schedules
 DTSTAMP:20261221T143000Z
 DTSTART:20261221T143000Z
 DTEND:20261221T160000Z
@@ -131,7 +131,7 @@ DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
  ramblers.org/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:c0578ffbae120a3134d2@basecamp-schedules
+UID:4ac97c48e5c2896da307@basecamp-schedules
 DTSTAMP:20261222T143000Z
 DTSTART:20261222T143000Z
 DTEND:20261222T160000Z
@@ -143,7 +143,7 @@ DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
  ramblers.org/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:a509cfa693c2dbf9be66@basecamp-schedules
+UID:1a2b5deebdc7ada6f056@basecamp-schedules
 DTSTAMP:20261223T143000Z
 DTSTART:20261223T143000Z
 DTEND:20261223T160000Z
@@ -155,7 +155,7 @@ DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
  ramblers.org/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:5806031302707c34dd68@basecamp-schedules
+UID:373aed2bd1fd1d805d82@basecamp-schedules
 DTSTAMP:20270105T230000Z
 DTSTART:20270105T230000Z
 DTEND:20270106T003000Z
@@ -166,7 +166,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:1e9699d5fffcccc1eae8@basecamp-schedules
+UID:0aa650da79b285e631f6@basecamp-schedules
 DTSTAMP:20270108T233000Z
 DTSTART:20270108T233000Z
 DTEND:20270109T010000Z
@@ -177,7 +177,7 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=505+
  tball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:6f3fee9b6686c34bf93f@basecamp-schedules
+UID:0d08494e69beaa1bd834@basecamp-schedules
 DTSTAMP:20270112T230000Z
 DTSTART:20270112T230000Z
 DTEND:20270113T003000Z
@@ -188,7 +188,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:c6d5bcc55305ecd52f03@basecamp-schedules
+UID:f31aaab7261f3433eaeb@basecamp-schedules
 DTSTAMP:20270115T230000Z
 DTSTART:20270115T230000Z
 DTEND:20270116T003000Z
@@ -199,7 +199,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:9d30a6dd9d100b39fff0@basecamp-schedules
+UID:8b13b9e32cb1824ae533@basecamp-schedules
 DTSTAMP:20270116T153000Z
 DTSTART:20270116T153000Z
 DTEND:20270116T170000Z
@@ -210,7 +210,7 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=385+
  ll---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:bde023f9b8addeba7ba1@basecamp-schedules
+UID:ad613a66329d826fd60e@basecamp-schedules
 DTSTAMP:20270119T230000Z
 DTSTART:20270119T230000Z
 DTEND:20270120T003000Z
@@ -221,7 +221,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:e925bfc33553a61683a9@basecamp-schedules
+UID:7fe6d72b3d41c561d9b2@basecamp-schedules
 DTSTAMP:20270122T230000Z
 DTSTART:20270122T230000Z
 DTEND:20270123T003000Z
@@ -232,7 +232,7 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=3633
  etball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:0e5c14a5f7edde709d85@basecamp-schedules
+UID:b5b5a237f8a3d1c49e01@basecamp-schedules
 DTSTAMP:20270126T230000Z
 DTSTART:20270126T230000Z
 DTEND:20270127T003000Z
@@ -243,7 +243,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:7f3cf67545fb02fe6f82@basecamp-schedules
+UID:119fa5420b57a8f0a379@basecamp-schedules
 DTSTAMP:20270130T180000Z
 DTSTART:20270130T180000Z
 DTEND:20270130T193000Z
@@ -255,7 +255,7 @@ DESCRIPTION:War on the Shore\nAway\nMap: https://www.google.com/maps/search
  blers.org/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:91ba6075be71bfc4b873@basecamp-schedules
+UID:ccfd6d56c41441175ba3@basecamp-schedules
 DTSTAMP:20270202T233000Z
 DTSTART:20270202T233000Z
 DTEND:20270203T010000Z
@@ -266,7 +266,7 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=6410
  l---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:fdcd18cece866a0f3610@basecamp-schedules
+UID:9d80a8f14d0da6193b4a@basecamp-schedules
 DTSTAMP:20270206T000000Z
 DTSTART:20270206T000000Z
 DTEND:20270206T013000Z
@@ -277,7 +277,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:db616e7eb353408148a2@basecamp-schedules
+UID:5ce986edba7ac9671a5a@basecamp-schedules
 DTSTAMP:20270209T233000Z
 DTSTART:20270209T233000Z
 DTEND:20270210T010000Z
@@ -288,7 +288,7 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=1000
  all---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:156b776da804d790cacf@basecamp-schedules
+UID:64d1952ef75ee7f660e9@basecamp-schedules
 DTSTAMP:20270212T230000Z
 DTSTART:20270212T230000Z
 DTEND:20270213T003000Z
@@ -299,7 +299,7 @@ DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  -boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:0aa572aecd101b5b0ac6@basecamp-schedules
+UID:0fad12e839c1b7a313d6@basecamp-schedules
 DTSTAMP:20270216T233000Z
 DTSTART:20270216T233000Z
 DTEND:20270217T010000Z
@@ -310,7 +310,7 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=5556
  --boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:8da57309700d5aed1f60@basecamp-schedules
+UID:83c1c96f9773d39f172f@basecamp-schedules
 DTSTAMP:20270220T150000Z
 DTSTART:20270220T150000Z
 DTEND:20270220T163000Z
@@ -322,7 +322,7 @@ DESCRIPTION:DeLaSalle Tournament\nAway\nMap: https://www.google.com/maps/se
  .goramblers.org/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:7f28c3a818472ca827ca@basecamp-schedules
+UID:83b02ff73ba9d89f51ed@basecamp-schedules
 DTSTAMP:20270220T170000Z
 DTSTART:20270220T170000Z
 DTEND:20270220T183000Z
@@ -334,7 +334,7 @@ DESCRIPTION:DeLaSalle Tournament\nAway\nMap: https://www.google.com/maps/se
  .goramblers.org/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:bf0a674b23d81000bdda@basecamp-schedules
+UID:5e4cb782a0cf97be99d1@basecamp-schedules
 DTSTAMP:20270221T150000Z
 DTSTART:20270221T150000Z
 DTEND:20270221T163000Z
@@ -346,7 +346,7 @@ DESCRIPTION:DeLaSalle Tournament\nAway\nMap: https://www.google.com/maps/se
  .goramblers.org/basketball---boys---sophomore
 END:VEVENT
 BEGIN:VEVENT
-UID:53cfbcad421da07a70f8@basecamp-schedules
+UID:b81d61168fb86986c438@basecamp-schedules
 DTSTAMP:20270221T170000Z
 DTSTART:20270221T170000Z
 DTEND:20270221T183000Z

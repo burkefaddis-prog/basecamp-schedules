@@ -1,74 +1,73 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//basecamp-schedules//maddie-louise-basketball//EN
+PRODID:-//basecamp-schedules//maddie-basketball-ics//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Maddie (Louise) — Basketball
+X-WR-CALNAME:Maddie — Basketball
 BEGIN:VEVENT
-UID:5d7fdce6a055f13db199@basecamp-schedules
+UID:2c5cce34c3d15277f6b4@basecamp-schedules
 DTSTAMP:20261118T003000Z
 DTSTART:20261118T003000Z
 DTEND:20261118T020000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. Fenwick (Home) · New Trier Tha
- nksgiving Tournament
+SUMMARY:Maddie — Basketball: vs. Fenwick (Home) · New Trier Thanksgiving
+  Tournament
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:New Trier Thanksgiving Tournament\nHome\nMap: https://www.googl
  e.com/maps/search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: http
  s://www.goramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:3b7bc1d2f2555ce669c5@basecamp-schedules
+UID:7714211c22cd7af91c2c@basecamp-schedules
 DTSTAMP:20261121T163000Z
 DTSTART:20261121T163000Z
 DTEND:20261121T180000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. Chicago Bulls College Prep (Hom
- e) · New Trier Thanksgiving Tournament
+SUMMARY:Maddie — Basketball: vs. Chicago Bulls College Prep (Home) · New
+  Trier Thanksgiving Tournament
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:New Trier Thanksgiving Tournament\nHome\nMap: https://www.googl
  e.com/maps/search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: http
  s://www.goramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:b8dfc3c3c9d6c005c214@basecamp-schedules
+UID:1a20382ce38d1827899e@basecamp-schedules
 DTSTAMP:20261124T010000Z
 DTSTART:20261124T010000Z
 DTEND:20261124T023000Z
-SUMMARY:Maddie (Louise) — Basketball: at Phillips (Away) · New Trier Tha
- nksgiving Tournament
+SUMMARY:Maddie — Basketball: at Phillips (Away) · New Trier Thanksgiving
+  Tournament
 LOCATION:Phillips High School\, 244 E Pershing Rd Chicago 60653
 DESCRIPTION:New Trier Thanksgiving Tournament\nAway\nMap: https://www.googl
  e.com/maps/search/?api=1&query=244+E+Pershing+Rd+Chicago+60653\nSchedule: 
  https://www.goramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:50d2e0799a26157b8751@basecamp-schedules
+UID:ff9238a73b7541b4285a@basecamp-schedules
 DTSTAMP:20261125T210000Z
 DTSTART:20261125T210000Z
 DTEND:20261125T223000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. New Trier (Home) · New Trier T
- hanksgiving Tournament
+SUMMARY:Maddie — Basketball: vs. New Trier (Home) · New Trier Thanksgivi
+ ng Tournament
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:New Trier Thanksgiving Tournament\nHome\nMap: https://www.googl
  e.com/maps/search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: http
  s://www.goramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:ea104d1f2e3ca891aa98@basecamp-schedules
+UID:b8f0b85d14cd37b9062c@basecamp-schedules
 DTSTAMP:20261127T200000Z
 DTSTART:20261127T200000Z
 DTEND:20261127T213000Z
-SUMMARY:Maddie (Louise) — Basketball: at Washington Community High School
-  (Away)
+SUMMARY:Maddie — Basketball: at Washington Community High School (Away)
 LOCATION:Metamora High School
 DESCRIPTION:Away\nSchedule: https://www.goramblers.org/basketball---girls--
  -varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:9929e2c38c32e016a3af@basecamp-schedules
+UID:343ff1d53f9d72a36967@basecamp-schedules
 DTSTAMP:20261129T011500Z
 DTSTART:20261129T011500Z
 DTEND:20261129T024500Z
-SUMMARY:Maddie (Louise) — Basketball: at Galesburg (Away)
+SUMMARY:Maddie — Basketball: at Galesburg (Away)
 LOCATION:Galesburg High School\, 1135 W Fremont St\, Galesburg\, IL 61401 G
  alesburg 61401
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=1135
@@ -76,67 +75,66 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=1135
  w.goramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:0ac533dda3d28a6beb69@basecamp-schedules
+UID:99764c3837683b427e17@basecamp-schedules
 DTSTAMP:20261202T003000Z
 DTSTART:20261202T003000Z
 DTEND:20261202T020000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. DePaul College Prep (Home)
+SUMMARY:Maddie — Basketball: vs. DePaul College Prep (Home)
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
  -girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:29188798979e7a378c81@basecamp-schedules
+UID:c07465e874ff60ad66c6@basecamp-schedules
 DTSTAMP:20261204T003000Z
 DTSTART:20261204T003000Z
 DTEND:20261204T020000Z
-SUMMARY:Maddie (Louise) — Basketball: at Trinity (Away)
+SUMMARY:Maddie — Basketball: at Trinity (Away)
 LOCATION:Trinity High School\, 7574 Division St River Forest 60305
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=7574
  +Division+St+River+Forest+60305\nSchedule: https://www.goramblers.org/bask
  etball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:fdd62bb356efd0fe7a28@basecamp-schedules
+UID:8d688a3303f4205259f3@basecamp-schedules
 DTSTAMP:20261205T160000Z
 DTSTART:20261205T160000Z
 DTEND:20261205T173000Z
-SUMMARY:Maddie (Louise) — Basketball: at Huntley (Away) · Dave Yates Sho
- otout
+SUMMARY:Maddie — Basketball: at Huntley (Away) · Dave Yates Shootout
 LOCATION:Fremd High School\, 1000 S Quentin Rd Palatine 60067
 DESCRIPTION:Dave Yates Shootout\nAway\nMap: https://www.google.com/maps/sea
  rch/?api=1&query=1000+S+Quentin+Rd+Palatine+60067\nSchedule: https://www.g
  oramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:277ee70ed677b6d559bb@basecamp-schedules
+UID:fd2aa7207a4b7af2c992@basecamp-schedules
 DTSTAMP:20261209T004500Z
 DTSTART:20261209T004500Z
 DTEND:20261209T021500Z
-SUMMARY:Maddie (Louise) — Basketball: opponent TBD (Away) · Exam Jam
+SUMMARY:Maddie — Basketball: opponent TBD (Away) · Exam Jam
 LOCATION:Lake Zurich High School\, 300 Church St Lake Zurich 60047
 DESCRIPTION:Exam Jam\nAway\nMap: https://www.google.com/maps/search/?api=1&
  query=300+Church+St+Lake+Zurich+60047\nSchedule: https://www.goramblers.or
  g/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:125e1ba5495824492bdb@basecamp-schedules
+UID:85b089d1883ecd296155@basecamp-schedules
 DTSTAMP:20261211T233000Z
 DTSTART:20261211T233000Z
 DTEND:20261212T010000Z
-SUMMARY:Maddie (Louise) — Basketball: at Regis (WI) (Away)
+SUMMARY:Maddie — Basketball: at Regis (WI) (Away)
 LOCATION:Regis High School (WI)\, 2100 Fenwick Avenue Eau Claire 54701
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=2100
  +Fenwick+Avenue+Eau+Claire+54701\nSchedule: https://www.goramblers.org/bas
  ketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:9532d0f426f248869166@basecamp-schedules
+UID:e2808dc0f033fb616a17@basecamp-schedules
 DTSTAMP:20261212T183000Z
 DTSTART:20261212T183000Z
 DTEND:20261212T200000Z
-SUMMARY:Maddie (Louise) — Basketball: at McDonell Central Catholic (Away)
+SUMMARY:Maddie — Basketball: at McDonell Central Catholic (Away)
 LOCATION:McDonell Central Catholic\, 1316 Bel Air Blvd. Chippewa Falls\, WI
   54729 Chippewa Falls 54729
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=1316
@@ -144,103 +142,103 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=1316
  ttps://www.goramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:df03b7056f8e0048506f@basecamp-schedules
+UID:41621d36329b4aefec8a@basecamp-schedules
 DTSTAMP:20261219T140000Z
 DTSTART:20261219T140000Z
 DTEND:20261219T153000Z
-SUMMARY:Maddie (Louise) — Basketball: opponent TBD (Home) · LA Christmas
-  Tournament
+SUMMARY:Maddie — Basketball: opponent TBD (Home) · LA Christmas Tourname
+ nt
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
  /search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.go
  ramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:406edc5d85449f742727@basecamp-schedules
+UID:4351a1bdaa5d3cff3ed5@basecamp-schedules
 DTSTAMP:20261221T140000Z
 DTSTART:20261221T140000Z
 DTEND:20261221T153000Z
-SUMMARY:Maddie (Louise) — Basketball: opponent TBD (Home) · LA Christmas
-  Tournament
+SUMMARY:Maddie — Basketball: opponent TBD (Home) · LA Christmas Tourname
+ nt
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
  /search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.go
  ramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:452fcfc0cacb2d08c454@basecamp-schedules
+UID:23ba7b9ce0bddddea068@basecamp-schedules
 DTSTAMP:20261222T140000Z
 DTSTART:20261222T140000Z
 DTEND:20261222T153000Z
-SUMMARY:Maddie (Louise) — Basketball: opponent TBD (Home) · LA Christmas
-  Tournament
+SUMMARY:Maddie — Basketball: opponent TBD (Home) · LA Christmas Tourname
+ nt
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
  /search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.go
  ramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:eb7cc3628a3482992d1e@basecamp-schedules
+UID:4da2c0147a1af9c19fb1@basecamp-schedules
 DTSTAMP:20261223T140000Z
 DTSTART:20261223T140000Z
 DTEND:20261223T153000Z
-SUMMARY:Maddie (Louise) — Basketball: opponent TBD (Home) · LA Christmas
-  Tournament
+SUMMARY:Maddie — Basketball: opponent TBD (Home) · LA Christmas Tourname
+ nt
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
  /search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.go
  ramblers.org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:c1ce69a7a3e8c385786e@basecamp-schedules
+UID:42282a1e6fed2f4e3007@basecamp-schedules
 DTSTAMP:20270105T010000Z
 DTSTART:20270105T010000Z
 DTEND:20270105T023000Z
-SUMMARY:Maddie (Louise) — Basketball: at Benet Academy (Away)
+SUMMARY:Maddie — Basketball: at Benet Academy (Away)
 LOCATION:Benet Academy\, 2200 Maple Ave Lisle 60532
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=2200
  +Maple+Ave+Lisle+60532\nSchedule: https://www.goramblers.org/basketball---
  girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:2bf0fe00eee44b128939@basecamp-schedules
+UID:30386a925c898f9cd79b@basecamp-schedules
 DTSTAMP:20270108T003000Z
 DTSTART:20270108T003000Z
 DTEND:20270108T020000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. Providence Catholic (Home)
+SUMMARY:Maddie — Basketball: vs. Providence Catholic (Home)
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
  -girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:7bdc0e505b92690cb80b@basecamp-schedules
+UID:18d955568ab4b6ec6701@basecamp-schedules
 DTSTAMP:20270112T010000Z
 DTSTART:20270112T010000Z
 DTEND:20270112T023000Z
-SUMMARY:Maddie (Louise) — Basketball: at Mother McAuley (Away)
+SUMMARY:Maddie — Basketball: at Mother McAuley (Away)
 LOCATION:Mother McAuley\, 3737 W 99th St Chicago 60655
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=3737
  +W+99th+St+Chicago+60655\nSchedule: https://www.goramblers.org/basketball-
  --girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:e9730de1a3cd1385084c@basecamp-schedules
+UID:6c07d77b6a606ac99217@basecamp-schedules
 DTSTAMP:20270115T003000Z
 DTSTART:20270115T003000Z
 DTEND:20270115T020000Z
-SUMMARY:Maddie (Louise) — Basketball: at Grafton (WI) (Away)
+SUMMARY:Maddie — Basketball: at Grafton (WI) (Away)
 LOCATION:Grafton High School\, 1950 Washington Street Grafton 53024
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=1950
  +Washington+Street+Grafton+53024\nSchedule: https://www.goramblers.org/bas
  ketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:f66bf879b64568974f9a@basecamp-schedules
+UID:13603957ee075cf6897d@basecamp-schedules
 DTSTAMP:20270116T183000Z
 DTSTART:20270116T183000Z
 DTEND:20270116T200000Z
-SUMMARY:Maddie (Louise) — Basketball: at Whitefish Bay (Away)
+SUMMARY:Maddie — Basketball: at Whitefish Bay (Away)
 LOCATION:Whitefish Bay High School\, 1200 E. Fairmount Avenue Whitefish Bay
   53217
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=1200
@@ -248,125 +246,122 @@ DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=1200
  .org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:89969684e4bae542bccb@basecamp-schedules
+UID:edd883364fc4707f097d@basecamp-schedules
 DTSTAMP:20270118T180000Z
 DTSTART:20270118T180000Z
 DTEND:20270118T193000Z
-SUMMARY:Maddie (Louise) — Basketball: opponent TBD (Away) · Kipp Hoopfes
- t
+SUMMARY:Maddie — Basketball: opponent TBD (Away) · Kipp Hoopfest
 LOCATION:Benet Academy\, 2200 Maple Ave Lisle 60532
 DESCRIPTION:Kipp Hoopfest\nAway\nMap: https://www.google.com/maps/search/?a
  pi=1&query=2200+Maple+Ave+Lisle+60532\nSchedule: https://www.goramblers.or
  g/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:609999ceebe365aa65a7@basecamp-schedules
+UID:eac59571ab9805054413@basecamp-schedules
 DTSTAMP:20270122T010000Z
 DTSTART:20270122T010000Z
 DTEND:20270122T023000Z
-SUMMARY:Maddie (Louise) — Basketball: at Resurrection (Away)
+SUMMARY:Maddie — Basketball: at Resurrection (Away)
 LOCATION:Resurrection High School\, 7500 W Talcott Ave Chicago 60631
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=7500
  +W+Talcott+Ave+Chicago+60631\nSchedule: https://www.goramblers.org/basketb
  all---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:be90883ae0a79384c66c@basecamp-schedules
+UID:18d61b0e3b868c68783d@basecamp-schedules
 DTSTAMP:20270126T003000Z
 DTSTART:20270126T003000Z
 DTEND:20270126T020000Z
-SUMMARY:Maddie (Louise) — Basketball: at Glenbrook South (Away)
+SUMMARY:Maddie — Basketball: at Glenbrook South (Away)
 LOCATION:Glenbrook South High School\, 4000 W Lake Ave Glenview 60026
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=4000
  +W+Lake+Ave+Glenview+60026\nSchedule: https://www.goramblers.org/basketbal
  l---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:db9a6f5aaea60cede744@basecamp-schedules
+UID:23b75099c2a569ecc3f0@basecamp-schedules
 DTSTAMP:20270127T233000Z
 DTSTART:20270127T233000Z
 DTEND:20270128T010000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. New Trier (Home) · Varsity Res
- erve
+SUMMARY:Maddie — Basketball: vs. New Trier (Home) · Varsity Reserve
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:Varsity Reserve\nHome\nMap: https://www.google.com/maps/search/
  ?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.goramblers
  .org/basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:319f912ca7f45c90e88b@basecamp-schedules
+UID:92a746383eda967987f5@basecamp-schedules
 DTSTAMP:20270129T003000Z
 DTSTART:20270129T003000Z
 DTEND:20270129T020000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. Carmel Catholic (Home)
+SUMMARY:Maddie — Basketball: vs. Carmel Catholic (Home)
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
  -girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:49820be23d13024de00a@basecamp-schedules
+UID:7e35b5419474ad276a56@basecamp-schedules
 DTSTAMP:20270130T183000Z
 DTSTART:20270130T183000Z
 DTEND:20270130T200000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. Lane Tech (Home)
+SUMMARY:Maddie — Basketball: vs. Lane Tech (Home)
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
  -girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:68b230dfe92ef7682311@basecamp-schedules
+UID:2371a01584fc2edcabcd@basecamp-schedules
 DTSTAMP:20270202T003000Z
 DTSTART:20270202T003000Z
 DTEND:20270202T020000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. Marist (Home)
+SUMMARY:Maddie — Basketball: vs. Marist (Home)
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
  +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
  -girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:0073174c6ab23ba845c8@basecamp-schedules
+UID:4f3dfc1b8fe6b0d46353@basecamp-schedules
 DTSTAMP:20270205T010000Z
 DTSTART:20270205T010000Z
 DTEND:20270205T023000Z
-SUMMARY:Maddie (Louise) — Basketball: at Nazareth Academy (Away)
+SUMMARY:Maddie — Basketball: at Nazareth Academy (Away)
 LOCATION:Nazareth Academy\, 1209 W Ogden Ave La Grange Park 60526
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=1209
  +W+Ogden+Ave+La+Grange+Park+60526\nSchedule: https://www.goramblers.org/ba
  sketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:57e8287f8d67f70414a2@basecamp-schedules
+UID:ea4d62b2f366545f1505@basecamp-schedules
 DTSTAMP:20270206T193000Z
 DTSTART:20270206T193000Z
 DTEND:20270206T210000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. St. Ignatius College Prep (Home
- ) · Jesuit Cup
+SUMMARY:Maddie — Basketball: vs. St. Ignatius College Prep (Home) · Jesu
+ it Cup
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:Jesuit Cup\nHome\nMap: https://www.google.com/maps/search/?api=
  1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/
  basketball---girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:60f081f908f9cd33ceac@basecamp-schedules
+UID:f30b5732a41384a2c288@basecamp-schedules
 DTSTAMP:20270209T233000Z
 DTSTART:20270209T233000Z
 DTEND:20270210T010000Z
-SUMMARY:Maddie (Louise) — Basketball: at Montini (Away)
+SUMMARY:Maddie — Basketball: at Montini (Away)
 LOCATION:Montini Catholic High School\, 19W070 16th St Lombard 60148
 DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=19W0
  70+16th+St+Lombard+60148\nSchedule: https://www.goramblers.org/basketball-
  --girls---varsity
 END:VEVENT
 BEGIN:VEVENT
-UID:844c785f71f0f5229cea@basecamp-schedules
+UID:b5ff65cfb0c8414fb7dd@basecamp-schedules
 DTSTAMP:20270212T003000Z
 DTSTART:20270212T003000Z
 DTEND:20270212T020000Z
-SUMMARY:Maddie (Louise) — Basketball: vs. Crete-Monee (Home) · Senior Ni
- ght
+SUMMARY:Maddie — Basketball: vs. Crete-Monee (Home) · Senior Night
 LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
 DESCRIPTION:Senior Night\nHome\nMap: https://www.google.com/maps/search/?ap
  i=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.goramblers.or
