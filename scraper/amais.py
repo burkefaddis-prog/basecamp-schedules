@@ -146,7 +146,11 @@ def find_feature_id(html: str) -> str:
 class Fetcher:
     def __init__(self, session: Optional[requests.Session] = None):
         self.s = session or requests.Session()
-        self.s.headers["User-Agent"] = USER_AGENT
+        self.s.headers.update({
+            "User-Agent": USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+        })
 
     def get(self, url: str, params: Optional[dict] = None) -> str:
         try:
@@ -154,7 +158,10 @@ class Fetcher:
         except requests.RequestException as e:
             raise ScrapeError(f"Request failed: {e}") from e
         if r.status_code != 200:
-            raise ScrapeError(f"HTTP {r.status_code} from {r.url}")
+            hints = {k: r.headers[k] for k in ("Server", "cf-ray", "x-amz-cf-id", "x-sucuri-id", "x-iinfo")
+                     if k in r.headers}
+            body = re.sub(r"\s+", " ", BeautifulSoup(r.text, "html.parser").get_text(" "))[:200]
+            raise ScrapeError(f"HTTP {r.status_code} from {r.url} | headers {hints} | page says: {body!r}")
         return r.text
 
 
