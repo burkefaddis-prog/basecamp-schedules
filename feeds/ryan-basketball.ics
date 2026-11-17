@@ -1,0 +1,360 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//basecamp-schedules//ryan-sophomore-basketball//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ryan — Sophomore Basketball
+BEGIN:VEVENT
+UID:1610b1b66743c7614046@basecamp-schedules
+DTSTAMP:20261123T223000Z
+DTSTART:20261123T223000Z
+DTEND:20261124T000000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. Glenbrook North (Home) · LA Tou
+ rnament
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:LA Tournament\nHome\nMap: https://www.google.com/maps/search/?a
+ pi=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.goramblers.o
+ rg/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd68ce486d4db7243aa@basecamp-schedules
+DTSTAMP:20261124T234500Z
+DTSTART:20261124T234500Z
+DTEND:20261125T011500Z
+SUMMARY:Ryan — Sophomore Basketball: vs. DePaul College Prep (Home) · LA
+  Tournament
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:LA Tournament\nHome\nMap: https://www.google.com/maps/search/?a
+ pi=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.goramblers.o
+ rg/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:cabcfcc4f88541c4a370@basecamp-schedules
+DTSTAMP:20261125T161500Z
+DTSTART:20261125T161500Z
+DTEND:20261125T174500Z
+SUMMARY:Ryan — Sophomore Basketball: vs. New Trier (Home) · LA Tournamen
+ t
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:LA Tournament\nHome\nMap: https://www.google.com/maps/search/?a
+ pi=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.goramblers.o
+ rg/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:65bec3b821e780484f84@basecamp-schedules
+DTSTAMP:20261203T230000Z
+DTSTART:20261203T230000Z
+DTEND:20261204T003000Z
+SUMMARY:Ryan — Sophomore Basketball: at Notre Dame College Prep (Away)
+LOCATION:Notre Dame College Prep\, 7655 W Dempster St Niles 60714
+DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=7655
+ +W+Dempster+St+Niles+60714\nSchedule: https://www.goramblers.org/basketbal
+ l---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:9fef137d15aaf0a7eaba@basecamp-schedules
+DTSTAMP:20261205T190000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T203000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. Taft (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:9f92de8822c24a8c5e08@basecamp-schedules
+DTSTAMP:20261208T230000Z
+DTSTART:20261208T230000Z
+DTEND:20261209T003000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. Leo Catholic (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:6e781b12541e6cef8cab@basecamp-schedules
+DTSTAMP:20261211T233000Z
+DTSTART:20261211T233000Z
+DTEND:20261212T010000Z
+SUMMARY:Ryan — Sophomore Basketball: at St. Rita (Away)
+LOCATION:St. Rita High School\, 7740 S Western Ave Chicago 60620
+DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=7740
+ +S+Western+Ave+Chicago+60620\nSchedule: https://www.goramblers.org/basketb
+ all---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:aa4bcd2746e80f4ab280@basecamp-schedules
+DTSTAMP:20261218T223000Z
+DTSTART:20261218T223000Z
+DTEND:20261219T000000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. Christ the King (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:667bde3ba5c8c4630bdb@basecamp-schedules
+DTSTAMP:20261219T143000Z
+DTSTART:20261219T143000Z
+DTEND:20261219T160000Z
+SUMMARY:Ryan — Sophomore Basketball: opponent TBD (Home) · LA Christmas 
+ Tournament
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
+ /search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.go
+ ramblers.org/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:b3724e3cf5d1ce2b272e@basecamp-schedules
+DTSTAMP:20261220T200000Z
+DTSTART:20261220T200000Z
+DTEND:20261220T213000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. Carmel Catholic (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:40143ff154c341a5bc5f@basecamp-schedules
+DTSTAMP:20261221T143000Z
+DTSTART:20261221T143000Z
+DTEND:20261221T160000Z
+SUMMARY:Ryan — Sophomore Basketball: opponent TBD (Home) · LA Christmas 
+ Tournament
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
+ /search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.go
+ ramblers.org/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:c0578ffbae120a3134d2@basecamp-schedules
+DTSTAMP:20261222T143000Z
+DTSTART:20261222T143000Z
+DTEND:20261222T160000Z
+SUMMARY:Ryan — Sophomore Basketball: opponent TBD (Home) · LA Christmas 
+ Tournament
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
+ /search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.go
+ ramblers.org/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:a509cfa693c2dbf9be66@basecamp-schedules
+DTSTAMP:20261223T143000Z
+DTSTART:20261223T143000Z
+DTEND:20261223T160000Z
+SUMMARY:Ryan — Sophomore Basketball: opponent TBD (Home) · LA Christmas 
+ Tournament
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:LA Christmas Tournament\nHome\nMap: https://www.google.com/maps
+ /search/?api=1&query=1100+Laramie+Wilmette+60091\nSchedule: https://www.go
+ ramblers.org/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:5806031302707c34dd68@basecamp-schedules
+DTSTAMP:20270105T230000Z
+DTSTART:20270105T230000Z
+DTEND:20270106T003000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. Lincoln Park High School (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:1e9699d5fffcccc1eae8@basecamp-schedules
+DTSTAMP:20270108T233000Z
+DTSTART:20270108T233000Z
+DTEND:20270109T010000Z
+SUMMARY:Ryan — Sophomore Basketball: at Fenwick (Away)
+LOCATION:Fenwick High School\, 505 Washington Blvd Oak Park 60302
+DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=505+
+ Washington+Blvd+Oak+Park+60302\nSchedule: https://www.goramblers.org/baske
+ tball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:6f3fee9b6686c34bf93f@basecamp-schedules
+DTSTAMP:20270112T230000Z
+DTSTART:20270112T230000Z
+DTEND:20270113T003000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. Evanston Township (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d5bcc55305ecd52f03@basecamp-schedules
+DTSTAMP:20270115T230000Z
+DTSTART:20270115T230000Z
+DTEND:20270116T003000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. Marist (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:9d30a6dd9d100b39fff0@basecamp-schedules
+DTSTAMP:20270116T153000Z
+DTSTART:20270116T153000Z
+DTEND:20270116T170000Z
+SUMMARY:Ryan — Sophomore Basketball: at New Trier (Away)
+LOCATION:New Trier (Winnetka Campus)\, 385 Winnetka Ave Winnetka 60093
+DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=385+
+ Winnetka+Ave+Winnetka+60093\nSchedule: https://www.goramblers.org/basketba
+ ll---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:bde023f9b8addeba7ba1@basecamp-schedules
+DTSTAMP:20270119T230000Z
+DTSTART:20270119T230000Z
+DTEND:20270120T003000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. Maine East (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:e925bfc33553a61683a9@basecamp-schedules
+DTSTAMP:20270122T230000Z
+DTSTART:20270122T230000Z
+DTEND:20270123T003000Z
+SUMMARY:Ryan — Sophomore Basketball: at DePaul College Prep (Away)
+LOCATION:DePaul College Prep\, 3633 N California Ave Chicago 60618
+DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=3633
+ +N+California+Ave+Chicago+60618\nSchedule: https://www.goramblers.org/bask
+ etball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:0e5c14a5f7edde709d85@basecamp-schedules
+DTSTAMP:20270126T230000Z
+DTSTART:20270126T230000Z
+DTEND:20270127T003000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. Benet Academy (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:7f3cf67545fb02fe6f82@basecamp-schedules
+DTSTAMP:20270130T180000Z
+DTSTART:20270130T180000Z
+DTEND:20270130T193000Z
+SUMMARY:Ryan — Sophomore Basketball: at Peoria Richwoods (Away) · War on
+  the Shore
+LOCATION:New Trier (Winnetka Campus)\, 385 Winnetka Ave Winnetka 60093
+DESCRIPTION:War on the Shore\nAway\nMap: https://www.google.com/maps/search
+ /?api=1&query=385+Winnetka+Ave+Winnetka+60093\nSchedule: https://www.goram
+ blers.org/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:91ba6075be71bfc4b873@basecamp-schedules
+DTSTAMP:20270202T233000Z
+DTSTART:20270202T233000Z
+DTEND:20270203T010000Z
+SUMMARY:Ryan — Sophomore Basketball: at Mount Carmel (Away)
+LOCATION:Mt. Carmel High School\, 6410 S Dante Ave Chicago 60637
+DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=6410
+ +S+Dante+Ave+Chicago+60637\nSchedule: https://www.goramblers.org/basketbal
+ l---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:fdcd18cece866a0f3610@basecamp-schedules
+DTSTAMP:20270206T000000Z
+DTSTART:20270206T000000Z
+DTEND:20270206T013000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. St. Ignatius College Prep (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:db616e7eb353408148a2@basecamp-schedules
+DTSTAMP:20270209T233000Z
+DTSTART:20270209T233000Z
+DTEND:20270210T010000Z
+SUMMARY:Ryan — Sophomore Basketball: at Brother Rice (Away)
+LOCATION:Brother Rice High School\, 10001 S Pulaski Rd Chicago 60655
+DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=1000
+ 1+S+Pulaski+Rd+Chicago+60655\nSchedule: https://www.goramblers.org/basketb
+ all---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:156b776da804d790cacf@basecamp-schedules
+DTSTAMP:20270212T230000Z
+DTSTART:20270212T230000Z
+DTEND:20270213T003000Z
+SUMMARY:Ryan — Sophomore Basketball: vs. St. Patrick (Home)
+LOCATION:Loyola Academy\, 1100 Laramie Wilmette 60091
+DESCRIPTION:Home\nMap: https://www.google.com/maps/search/?api=1&query=1100
+ +Laramie+Wilmette+60091\nSchedule: https://www.goramblers.org/basketball--
+ -boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa572aecd101b5b0ac6@basecamp-schedules
+DTSTAMP:20270216T233000Z
+DTSTART:20270216T233000Z
+DTEND:20270217T010000Z
+SUMMARY:Ryan — Sophomore Basketball: at St. Laurence (Away)
+LOCATION:St. Laurence High School\, 5556 W 77th St Chicago 60459
+DESCRIPTION:Away\nMap: https://www.google.com/maps/search/?api=1&query=5556
+ +W+77th+St+Chicago+60459\nSchedule: https://www.goramblers.org/basketball-
+ --boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:8da57309700d5aed1f60@basecamp-schedules
+DTSTAMP:20270220T150000Z
+DTSTART:20270220T150000Z
+DTEND:20270220T163000Z
+SUMMARY:Ryan — Sophomore Basketball: opponent TBD (Away) · DeLaSalle Tou
+ rnament
+LOCATION:De La Salle High School\, 3434 S Michigan Ave Chicago 60616
+DESCRIPTION:DeLaSalle Tournament\nAway\nMap: https://www.google.com/maps/se
+ arch/?api=1&query=3434+S+Michigan+Ave+Chicago+60616\nSchedule: https://www
+ .goramblers.org/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:7f28c3a818472ca827ca@basecamp-schedules
+DTSTAMP:20270220T170000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T183000Z
+SUMMARY:Ryan — Sophomore Basketball: opponent TBD (Away) · DeLaSalle Tou
+ rnament
+LOCATION:De La Salle High School\, 3434 S Michigan Ave Chicago 60616
+DESCRIPTION:DeLaSalle Tournament\nAway\nMap: https://www.google.com/maps/se
+ arch/?api=1&query=3434+S+Michigan+Ave+Chicago+60616\nSchedule: https://www
+ .goramblers.org/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:bf0a674b23d81000bdda@basecamp-schedules
+DTSTAMP:20270221T150000Z
+DTSTART:20270221T150000Z
+DTEND:20270221T163000Z
+SUMMARY:Ryan — Sophomore Basketball: opponent TBD (Away) · DeLaSalle Tou
+ rnament
+LOCATION:De La Salle High School\, 3434 S Michigan Ave Chicago 60616
+DESCRIPTION:DeLaSalle Tournament\nAway\nMap: https://www.google.com/maps/se
+ arch/?api=1&query=3434+S+Michigan+Ave+Chicago+60616\nSchedule: https://www
+ .goramblers.org/basketball---boys---sophomore
+END:VEVENT
+BEGIN:VEVENT
+UID:53cfbcad421da07a70f8@basecamp-schedules
+DTSTAMP:20270221T170000Z
+DTSTART:20270221T170000Z
+DTEND:20270221T183000Z
+SUMMARY:Ryan — Sophomore Basketball: opponent TBD (Away) · DeLaSalle Tou
+ rnament
+LOCATION:De La Salle High School\, 3434 S Michigan Ave Chicago 60616
+DESCRIPTION:DeLaSalle Tournament\nAway\nMap: https://www.google.com/maps/se
+ arch/?api=1&query=3434+S+Michigan+Ave+Chicago+60616\nSchedule: https://www
+ .goramblers.org/basketball---boys---sophomore
+END:VEVENT
+END:VCALENDAR
