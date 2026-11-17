@@ -1,0 +1,64 @@
+name: Update feeds
+
+on:
+  schedule:
+    - cron: "17 11 * * 1"   # Mondays 11:17 UTC (5:17 AM Chicago in winter)
+  workflow_dispatch:
+    inputs:
+      allow_shrink:
+        description: "Accept a schedule that lost games since the last run (still refuses an empty one)"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ["teams.yaml", "scraper/**", ".github/workflows/update-feeds.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Unit tests
+        run: python -m pytest -q
+
+      # Runs every team. A team that fails keeps its old file; the step still
+      # fails at the end so the run shows red and GitHub emails you.
+      - name: Scrape
+        id: scrape
+        continue-on-error: true
+        env:
+          ALLOW_SHRINK: ${{ inputs.allow_shrink && '1' || '' }}
+        run: python -m scraper
+
+      - name: Commit changed feeds
+        run: |
+          git add feeds/
+          if git diff --cached --quiet; then
+            echo "No feed changes."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update feeds"
+            git push
+          fi
+
+      - name: Fail the run if any team failed
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          echo "::error::At least one team failed to scrape. See the Scrape step. Its feed was left unchanged."
+          exit 1
