@@ -4,7 +4,8 @@
 #             say whose game it is.
 #   url       The team's schedule page.
 #   output    File name written to feeds/. Changing it changes the feed URL,
-#             so basecamp would need the new one.
+#             so basecamp would need the new one. Game IDs are built from it,
+#             so the label can be renamed freely.
 #   platform  Which site parser to use. Only "amais" exists so far
 #             (Loyola Academy / goramblers.org and other AMAIS school sites).
 #   duration_minutes  Optional. How long each game block is. Default 90.
@@ -13,7 +14,7 @@
 # (weekly, or Actions -> "Update feeds" -> Run workflow) creates the file.
 
 teams:
-  - label: "Maddie (Louise) — Basketball"
+  - label: "Maddie — Basketball"
     url: https://www.goramblers.org/basketball---girls---varsity
     output: maddie-basketball.ics
     platform: amais

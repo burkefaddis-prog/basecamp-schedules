@@ -96,6 +96,13 @@ def test_output_is_deterministic_and_uids_stable():
     assert len(set(uids)) == 4
 
 
+def test_renaming_label_keeps_uids():
+    uid = lambda t: sorted(l for l in t.split("\r\n") if l.startswith("UID:"))
+    a = render("Old name", URL, games(), team_key="maddie-basketball.ics")
+    b = render("New name", URL, games(), team_key="maddie-basketball.ics")
+    assert uid(a) == uid(b)
+
+
 def test_same_day_tbd_slots_get_distinct_uids():
     g = games()[3]
     twin = amais.Game(**{**g.__dict__, "start": time(9, 0)})

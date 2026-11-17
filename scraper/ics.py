@@ -78,8 +78,11 @@ def location_for(g: Game) -> str:
     return g.location or g.address
 
 
-def assign_uids(label: str, games: list[Game]) -> list[str]:
+def assign_uids(team_key: str, games: list[Game]) -> list[str]:
     """UID = hash(team, date, opponent). Stable across re-scrapes.
+
+    team_key is the feed's output file name, not its label, so renaming a
+    team's label in teams.yaml doesn't change every game's ID.
 
     Two games on the same day against the same opponent (e.g. two "TBD"
     tournament slots) would collide, so the start time is added only for
@@ -88,7 +91,7 @@ def assign_uids(label: str, games: list[Game]) -> list[str]:
     def h(*parts) -> str:
         return hashlib.sha1("|".join(parts).encode()).hexdigest()[:20]
 
-    team = _slug(label)
+    team = _slug(team_key)
     base = [h(team, g.day.isoformat(), _slug(g.opponent)) for g in games]
     uids = []
     seen: dict[str, int] = {}
@@ -101,14 +104,15 @@ def assign_uids(label: str, games: list[Game]) -> list[str]:
     return uids
 
 
-def render(label: str, source_url: str, games: list[Game], duration_minutes: int = 90) -> str:
-    uids = assign_uids(label, games)
+def render(label: str, source_url: str, games: list[Game], duration_minutes: int = 90,
+           team_key: str = "") -> str:
+    uids = assign_uids(team_key or label, games)
     rows = sorted(zip(games, uids), key=lambda p: (p[0].day, p[0].start or datetime.min.time(), p[1]))
 
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        f"PRODID:-//{UID_DOMAIN}//{_slug(label)}//EN",
+        f"PRODID:-//{UID_DOMAIN}//{_slug(team_key or label)}//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{_escape(label)}",

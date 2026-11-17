@@ -67,7 +67,8 @@ def run_team(team: dict, allow_shrink: bool) -> str:
     old_text = out.read_bytes().decode("utf-8") if out.exists() else ""
     check_safe(len(games), count_events(old_text), allow_shrink)
 
-    text = render(team["label"], team["url"], games, int(team.get("duration_minutes", 90)))
+    text = render(team["label"], team["url"], games, int(team.get("duration_minutes", 90)),
+                  team_key=team["output"])
     if text == old_text:
         return f"unchanged ({len(games)} games)"
     FEEDS.mkdir(exist_ok=True)
